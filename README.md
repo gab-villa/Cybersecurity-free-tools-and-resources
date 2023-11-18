@@ -2,7 +2,7 @@
 
 # OSINT
 https://archive.org/web/ (webtimemachine)<br>
-https://webcache.googleusercontent.com/[code + page] (google cache, see more ad google cache docs)<br>
+https://webcache.googleusercontent.com/ (google cache, see more ad google cache docs)<br>
 https://www.shodan.io/ <br>
 
 # Incident response 

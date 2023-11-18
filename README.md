@@ -12,7 +12,7 @@ https://www.deciduous.app/ (incident planning tool)
 
 # Malware analysis
 https://www.malware-traffic-analysis.net/training-exercises.html (useful pcap exercises)
-https://www.virustotal.com/gui/home/upload /(common antivirus analyzer)
+https://www.virustotal.com/gui/home/upload (common antivirus analyzer)
 https://antiscan.me/ (non distribute antivirus analyzer for malware analysis)
 https://github.com/mitre/multiscanner (mitre multiscanner for malware analysis)
 

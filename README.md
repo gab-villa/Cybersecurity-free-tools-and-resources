@@ -1,4 +1,4 @@
-# SOC-free-web-tools-and-resources
+# Tools and resources
 
 # OSINT
 https://archive.org/web/ (webtimemachine)<br>

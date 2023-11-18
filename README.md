@@ -36,8 +36,8 @@ https://login.microsoftonline.com/error (see detailed error description from azu
 
 
 # Misc
-https://quillbot.com/grammar-check (manage the grammar for reports!)
-https://www.deepl.com/en/translator (best translator)
-https://new.express.adobe.com/ (useful misc edition tools)
+https://quillbot.com/grammar-check (manage the grammar for reports!)<br>
+https://www.deepl.com/en/translator (best translator)<br>
+https://new.express.adobe.com/ (useful misc edition tools)<br>
 
 
